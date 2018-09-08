@@ -1,0 +1,23 @@
+{
+  "name": "firebasestoragenodeapi",
+  "version": "1.0.0",
+  "description": "Firebase Storage API with node JS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FabianVarela/FirebaseStorageNodeAPI.git"
+  },
+  "author": "Fabian Varela Bonett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FabianVarela/FirebaseStorageNodeAPI/issues"
+  },
+  "homepage": "https://github.com/FabianVarela/FirebaseStorageNodeAPI#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3"
+  }
+}
